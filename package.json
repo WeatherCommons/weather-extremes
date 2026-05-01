@@ -9,6 +9,6 @@
     "clean": "observable clean"
   },
   "dependencies": {
-    "@observablehq/framework": "^1.14.0"
+    "@observablehq/framework": "^1.13.4"
   }
 }
