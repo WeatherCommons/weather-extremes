@@ -49,8 +49,10 @@ export default {
     {
       name: "All-Time Records",
       pages: [{name: "Overview", path: "/atr"}, ...at.list]
-    }
+    },
+    {name: "Data Sources", path: "/sources"},
+    {name: "Credits", path: "/credits"}
   ],
   dynamicPaths: [...re.paths, ...at.paths],
-  footer: `Maintained by <a href="https://github.com/WeatherCommons">Weather Commons</a>.`
+  footer: `Maintained by <a href="https://github.com/WeatherCommons">Weather Commons</a> · <a href="/credits">Credits</a>`
 };
