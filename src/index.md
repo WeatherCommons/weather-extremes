@@ -1,6 +1,7 @@
 # Record Events
 
 Records are reported in **°C** for temperature and **mm** for rainfall.
+See [Data Sources](sources) for where the records come from.
 
 ```js
 const records = await FileAttachment("data/records/2026/India.csv").csv({typed: true});
