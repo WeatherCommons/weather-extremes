@@ -11,7 +11,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-12-15,Madurai (city),,,India,Min Temp,Low,16.2,16.7,1920-12-05,Month,1891-01-01,133,43359
 2025-12-15,Solan (Nauni),,,India,Max Temp,High,28.5,27,2007-12-24,Month,1981-01-01,1256,42106
 2025-12-12,Dharwad,,,India,Min Temp,Low,8.5,9,2005-12-17,Month,2004-01-01,686,43200
-2025-12-12,Dharwad,,,India,Min Temp,Low,8.5,13,,Year,2004-01-01,686,43200
+2025-12-12,Dharwad,,,India,Min Temp,Low,8.5,13,2015-01-13,Year,2004-01-01,686,43200
 2025-12-12,Gadag,,,India,Min Temp,Low,9.8,9.9,2010-12-24,Month,1950-01-01,650,43201
 2025-11-29,Ariyalur,,,India,Max Temp,Low,22.8,23,1985-11-05,Month,1977-01-01,76,43324
 2025-11-29,Kanyakumari,,,India,Min Temp,Low,17.2,20.1,1967-11-30,Month,1961-01-01,37,43377
@@ -34,7 +34,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-11-06,Itanagar,,,India,Min Temp,High,22.2,21.8,2023-11-01,Month,2007-01-01,203,42308
 2025-11-06,Passighat,,,India,Min Temp,High,24.9,23,2020-11-02,Month,1969-01-01,157,42220
 2025-11-05,Cooch Behar,,,India,Max Temp,High,34.6,34.5,2016-11-01,Month,1952-01-01,43,42403
-2025-11-04,Chennai (N),,,India,Min Temp,High,27.7,2,,Month,1969-01-01,6,43278
+2025-11-04,Chennai (N),,,India,Min Temp,High,27.7,27.7,2025-11-02,Month,1969-01-01,6,43278
 2025-11-04,Shillong,,,India,Max Temp,High,25.4,25.1,2022-11-02,Month,1951-01-01,1598,42516
 2025-11-04,Thanjavur,,,India,Min Temp,High,28.2,28,2024-11-09,Month,1975-01-01,68,43330
 2025-11-03,Bhuj,,,India,Min Temp,High,25.4,25,2019-11-04,Month,1969-01-01,119,42634
@@ -49,7 +49,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-11-02,Chennai (M),,,India,Min Temp,High,27,26.6,1999-11-06,Month,1969-01-01,16,43279
 2025-11-02,Chennai (N),,,India,Min Temp,High,27.7,27.2,2019-11-14,Month,1969-01-01,6,43278
 2025-11-02,Chennai (N),,,India,Max Temp,High,35.4,35.1,2019-09-09,Month,1883-01-01,6,43278
-2025-11-02,Deesa,,,India,Min Temp,High,25,11,,Month,1969-01-01,137,42539
+2025-11-02,Deesa,,,India,Min Temp,High,25,25,2010-11-11,Month,1969-01-01,137,42539
 2025-11-02,Kavali,,,India,Min Temp,High,28.6,28.4,2009-11-13,Month,1995-01-01,17,43243
 2025-11-02,Narsapur,,,India,Max Temp,High,35.8,35.2,2024-11-01,Month,1988-01-01,4,43187
 2025-11-02,Nellore,,,India,Min Temp,High,28,27.4,1995-11-11,Month,1969-01-01,19,43245
@@ -82,12 +82,12 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-10-28,Alibag,,,India,Max Temp,Low,25.1,26.2,1988-10-04,Month,1969-01-01,7,43058
 2025-10-28,Bhilwara,,,India,Max Temp,Low,19.6,21.1,2025-10-27,Month,1969-01-01,421,42447
 2025-10-28,Bhilwara,,,India,Rain,24hrs,88,47.6,1970-10-01,Month,1962-01-01,421,42447
-2025-10-28,Chennai (N),,,India,Max Temp,Low,24.6,29,,Month,1969-01-01,6,43278
+2025-10-28,Chennai (N),,,India,Max Temp,Low,24.6,24.6,2007-10-29,Month,1969-01-01,6,43278
 2025-10-28,Chittorgarh,,,India,Max Temp,Low,20.3,21.9,1985-10-09,Month,1973-01-01,404,42546
 2025-10-28,Chittorgarh,,,India,Rain,24hrs,68,57.2,1974-10-11,Month,1973-01-01,404,42546
 2025-10-28,Guna,,,India,Max Temp,Low,21.4,23.3,1985-10-13,Month,1969-01-01,478,42559
 2025-10-28,Gwalior,,,India,Max Temp,Low,19.5,21.2,1971-10-18,Month,1969-01-01,207,42361
-2025-10-28,Kailashahar,,,India,Max Temp,High,36,15,,Month,1958-01-01,29,42618
+2025-10-28,Kailashahar,,,India,Max Temp,High,36,36,2021-10-15,Month,1958-01-01,29,42618
 2025-10-28,Kanyakumari,,,India,Min Temp,Low,19.9,20,2025-10-24,Month,1961-01-01,37,43377
 2025-10-28,Kochi (CIAL),,,India,Max Temp,Low,25.5,25.6,2007-10-30,Month,2004-01-01,9,43336
 2025-10-28,Kota,,,India,Max Temp,Low,20.7,21.9,2025-10-27,Month,1969-01-01,273,42452
@@ -96,7 +96,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-10-27,Bhilwara,,,India,Max Temp,Low,21.1,22.3,2003-09-01,Month,1969-01-01,421,42447
 2025-10-27,Diu,,,India,Max Temp,Low,25.4,25.5,2025-10-25,Month,1969-01-01,10,42914
 2025-10-27,Gandhinagar,,,India,Max Temp,Low,24.8,25.8,1975-10-24,Month,1974-01-01,81,42654
-2025-10-27,Kota,,,India,Max Temp,Low,21.9,9,,Month,1969-01-01,273,42452
+2025-10-27,Kota,,,India,Max Temp,Low,21.9,21.9,1985-10-09,Month,1969-01-01,273,42452
 2025-10-27,Mahuva,,,India,Max Temp,Low,26.8,27,1983-10-09,Month,1969-01-01,9,42837
 2025-10-27,Tikamgarh,,,India,Max Temp,Low,23,23.2,1971-10-18,Month,1969-01-01,330,42562
 2025-10-27,Udaipur AP,,,India,Max Temp,Low,21.8,23.4,1985-10-09,Month,1969-01-01,509,42542
@@ -122,16 +122,16 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-10-05,Forbesganj,,,India,Rain,24hrs,209.6,176.8,2022-10-10,Month,1953-01-01,61,42395
 2025-10-05,Supaul,,,India,Rain,24hrs,156.7,123.8,1978-10-06,Month,1967-01-01,50,42393
 2025-10-04,Varanasi (BHU),,,India,Rain,24hrs,187,138.9,1900-10-09,Month,1889-01-01,88,42483
-2025-10-02,Palayamkottai,,,India,Max Temp,High,39.5,10,,Month,1951-01-01,51,43376
+2025-10-02,Palayamkottai,,,India,Max Temp,High,39.5,39.5,2011-10-10,Month,1951-01-01,51,43376
 2025-10-01,Patna,,,India,Min Temp,High,27.9,27.7,2006-10-04,Month,1969-01-01,57,42492
 2025-09-30,Beed,,,India,Min Temp,Low,14.7,15.7,1972-09-25,Month,1960-01-01,519,43011
-2025-09-27,Bijapur,,,India,Max Temp,Low,23,20,,Month,1969-01-01,598,43161
-2025-09-27,Jeur,,,India,Rain,24hrs,105,22,,Month,1951-01-01,521,43071
+2025-09-27,Bijapur,,,India,Max Temp,Low,23,23,1973-09-20,Month,1969-01-01,598,43161
+2025-09-27,Jeur,,,India,Rain,24hrs,105,105,2025-09-22,Month,1951-01-01,521,43071
 2025-09-27,Kolhapur,,,India,Max Temp,Low,22,22.1,1969-09-07,Month,1969-01-01,570,43157
 2025-09-27,Sangli,,,India,Max Temp,Low,22,22.7,2004-09-11,Month,1969-01-01,549,43158
 2025-09-27,Supaul,,,India,Min Temp,High,30.9,30.1,2020-09-04,Month,1969-01-01,50,42393
 2025-09-22,Jeur,,,India,Rain,24hrs,105,104.8,1991-09-18,Month,1951-01-01,521,43071
-2025-09-21,Durg,,,India,Min Temp,Low,18.6,16,,Month,1970-01-01,293,42876
+2025-09-21,Durg,,,India,Min Temp,Low,18.6,18.6,2025-09-16,Month,1970-01-01,293,42876
 2025-09-16,Durg,,,India,Min Temp,Low,18.6,19.2,2025-09-12,Month,1970-01-01,293,42876
 2025-09-12,Durg,,,India,Min Temp,Low,19.2,19.6,2025-09-03,Month,1970-01-01,293,42876
 2025-09-12,Medak,,,India,Rain,24hrs,196,192.2,2005-09-21,Year,1979-01-01,472,43083
@@ -179,29 +179,29 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-08-13,Srinagar,,,India,Min Temp,High,24.7,24.2,1983-08-01,Month,1969-01-01,1585,42027
 2025-08-13,Tirupati,,,India,Max Temp,Low,26,26.4,2000-08-23,Month,1973-01-01,103,43275
 2025-08-12,Pahalgam,,,India,Min Temp,High,19.5,19,2009-08-14,Month,1978-01-01,2310,42028
-2025-08-06,Karur Paramathi,,,India,Min Temp,Low,19.5,15,,Month,1977-01-01,182,43342
+2025-08-06,Karur Paramathi,,,India,Min Temp,Low,19.5,19.5,2024-08-15,Month,1977-01-01,182,43342
 2025-08-05,Shahjahanpur,,,India,Rain,24hrs,150,139.4,1986-08-20,Month,1977-01-01,155,42266
 2025-08-04,Koraput,,,India,Max Temp,High,34.5,33.2,2025-08-01,Month,1951-01-01,913,43097
 2025-08-01,Golaghat,,,India,Min Temp,High,29,28,2024-08-29,Month,1969-01-01,95,42420
 2025-08-01,Koraput,,,India,Max Temp,High,33.2,31.6,2016-08-30,Month,1951-01-01,913,43097
 2025-07-30,Guna,,,India,Rain,24hrs,323,293.4,1958-07-25,Month,1946-01-01,478,42559
 2025-07-29,Gangtok,,,India,Rain,24hrs,123.4,117.5,1979-07-23,Month,1958-01-01,1756,42299
-2025-07-29,Raisen,,,India,Max Temp,Low,23.6,24,,Month,1971-01-01,440,42672
+2025-07-29,Raisen,,,India,Max Temp,Low,23.6,23.6,2025-07-24,Month,1971-01-01,440,42672
 2025-07-29,Tadong,,,India,Rain,24hrs,124.6,117,2005-07-06,Month,1977-01-01,1322,42217
-2025-07-28,Durg,,,India,Min Temp,Low,18.2,26,,Month,1970-01-01,293,42876
+2025-07-28,Durg,,,India,Min Temp,Low,18.2,18.2,2025-07-26,Month,1970-01-01,293,42876
 2025-07-26,Durg,,,India,Min Temp,Low,18.2,18.6,2024-07-29,Month,1970-01-01,293,42876
-2025-07-26,Kochi (CIAL),,,India,Max Temp,Low,24.5,11,,Month,2004-01-01,9,43336
+2025-07-26,Kochi (CIAL),,,India,Max Temp,Low,24.5,24.5,2021-07-11,Month,2004-01-01,9,43336
 2025-07-26,Kozhikode AP  (Karipur),,,India,Max Temp,Low,24.1,24.5,2022-07-10,Month,1988-01-01,107,43320
 2025-07-24,Jorhat,,,India,Min Temp,High,29.1,29,2025-07-14,Month,1970-01-01,88,42423
 2025-07-24,North Lakhimpur,,,India,Min Temp,High,28.5,28.2,2025-07-14,Month,1969-01-01,102,42309
-2025-07-24,Raisen,,,India,Max Temp,Low,23.6,27,,Month,1971-01-01,440,42672
+2025-07-24,Raisen,,,India,Max Temp,Low,23.6,23.6,2017-07-17,Month,1971-01-01,440,42672
 2025-07-24,Tadong,,,India,Max Temp,High,32.8,32.6,2025-07-23,Month,1978-01-01,1322,42217
 2025-07-23,Tadong,,,India,Max Temp,High,32.6,32.5,2025-07-22,Month,1978-01-01,1322,42217
 2025-07-22,Tadong,,,India,Max Temp,High,32.5,32.4,2025-07-13,Month,1978-01-01,1322,42217
 2025-07-14,Jorhat,,,India,Min Temp,High,29,28.9,1972-07-14,Month,1970-01-01,88,42423
 2025-07-14,North Lakhimpur,,,India,Min Temp,High,28.2,27.4,2025-07-11,Month,1969-01-01,102,42309
 2025-07-13,Gaya,,,India,Min Temp,Low,16.2,16.7,1886-07-02,Month,1886-01-01,116,42591
-2025-07-13,Guwahati,,,India,Max Temp,High,38.4,38.4,,Month,1951-01-01,54,42410
+2025-07-13,Guwahati,,,India,Max Temp,High,38.4,38.4,2017-07-18,Month,1951-01-01,54,42410
 2025-07-13,Khajuraho,,,India,Rain,24hrs,160.4,143.2,1981-07-07,Month,1970-01-01,221,42567
 2025-07-13,Tadong,,,India,Max Temp,High,32.4,32.3,2025-07-01,Month,1978-01-01,1322,42217
 2025-07-13,Tikamgarh,,,India,Rain,24hrs,215,180,1974-07-03,Month,1968-01-01,330,42562
@@ -210,15 +210,15 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-07-10,Aminidivi,,,India,Min Temp,High,29,28.5,2014-07-02,Month,1969-01-01,12,43311
 2025-07-06,Jharsuguda,,,India,Rain,24hrs,205.2,195.1,2002-07-17,Month,1951-01-01,230,42886
 2025-07-06,Koraput,,,India,Max Temp,High,35.5,35,2025-07-05,Month,1951-01-01,913,43097
-2025-07-06,Srinagar,,,India,Min Temp,High,25.2,21,,Month,1969-01-01,1585,42027
-2025-07-06,Srinagar,,,India,Min Temp,High,25.2,21,,Year,1969-01-01,1585,42027
+2025-07-06,Srinagar,,,India,Min Temp,High,25.2,25.2,1988-07-21,Month,1969-01-01,1585,42027
+2025-07-06,Srinagar,,,India,Min Temp,High,25.2,25.2,1988-07-21,Year,1969-01-01,1585,42027
 2025-07-05,Koraput,,,India,Max Temp,High,35,33.6,1969-07-09,Month,1951-01-01,913,43097
 2025-07-05,Pahalgam,,,India,Max Temp,High,31.6,31.5,2024-07-21,Month,1978-01-01,2310,42028
 2025-07-05,Qazigund,,,India,Min Temp,High,23.4,22.8,1997-07-18,Month,1969-01-01,1690,42044
 2025-07-05,Qazigund,,,India,Min Temp,High,23.4,23.3,1970-06-28,Year,1969-01-01,1690,42044
 2025-07-01,Mandi,,,India,Rain,24hrs,216.8,198.8,1976-06-26,Month,1954-01-01,760,42078
 2025-07-01,Tadong,,,India,Max Temp,High,32.3,32.1,2017-07-18,Month,1978-01-01,1322,42217
-2025-06-26,Washim,,,India,Max Temp,Low,24,16,,Month,2007-01-01,565,42935
+2025-06-26,Washim,,,India,Max Temp,Low,24,24,2013-06-16,Month,2007-01-01,565,42935
 2025-06-25,Pahalgam,,,India,Min Temp,High,18.8,17.8,2025-05-22,Month,1978-01-01,2310,42028
 2025-06-25,Srinagar,,,India,Min Temp,High,25,24.6,1978-06-29,Month,1969-01-01,1585,42027
 2025-06-24,Alibag,,,India,Min Temp,Low,19.9,20.5,2020-06-08,Month,1934-01-01,7,43058
@@ -232,24 +232,24 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-06-21,Kangra AP,,,India,Rain,24hrs,87.8,78.6,2015-06-21,Month,2012-01-01,771,42076
 2025-06-17,Bhilwara,,,India,Max Temp,Low,27.5,27.8,1971-06-27,Month,1969-01-01,421,42447
 2025-06-14,Dhubri,,,India,Min Temp,High,29.6,29.2,2023-06-08,Month,1969-01-01,35,42404
-2025-06-14,Kalimpong,,,India,Min Temp,High,23,11,,Month,1969-01-01,1209,42296
+2025-06-14,Kalimpong,,,India,Min Temp,High,23,23,2025-06-11,Month,1969-01-01,1209,42296
 2025-06-14,Supaul,,,India,Min Temp,High,30.2,29.9,2025-06-11,Month,1969-01-01,50,42393
 2025-06-13,Cherrapunji,,,India,Max Temp,High,30.5,29.9,2023-06-09,Month,1913-01-01,1313,42515
 2025-06-13,Passighat,,,India,Max Temp,High,38.8,38.6,2025-06-12,Month,1957-01-01,157,42220
 2025-06-12,Dibrugarh (Mohanbari),,,India,Max Temp,High,38.7,38.2,2015-06-26,Month,1952-01-01,111,42314
 2025-06-12,Itanagar,,,India,Max Temp,High,39.7,39.5,2015-06-26,Month,2007-01-01,203,42308
-2025-06-12,Passighat,,,India,Max Temp,High,38.6,10,,Month,1957-01-01,157,42220
+2025-06-12,Passighat,,,India,Max Temp,High,38.6,38.6,2025-06-10,Month,1957-01-01,157,42220
 2025-06-11,Darjeeling,,,India,Max Temp,High,25.8,25.6,1979-06-02,Month,1951-01-01,2128,42295
 2025-06-11,Golaghat,,,India,Min Temp,High,30,29,2024-06-24,Month,1969-01-01,95,42420
 2025-06-11,Kalimpong,,,India,Min Temp,High,23,22.6,1980-06-30,Month,1969-01-01,1209,42296
 2025-06-11,Supaul,,,India,Min Temp,High,29.9,29.6,2024-06-27,Month,1969-01-01,50,42393
-2025-06-10,Passighat,,,India,Max Temp,High,38.6,21,,Month,1957-01-01,157,42220
+2025-06-10,Passighat,,,India,Max Temp,High,38.6,38.6,1996-06-21,Month,1957-01-01,157,42220
 2025-05-30,Adilabad,,,India,Rain,24hrs,65,55,2025-05-28,Month,1980-01-01,270,43025
 2025-05-28,Adilabad,,,India,Rain,24hrs,55,32,1981-05-09,Month,1980-01-01,270,43025
 2025-05-28,Akola,,,India,Rain,24hrs,140.7,66.7,2025-05-22,Month,1885-01-01,282,42933
 2025-05-28,Dharwad,,,India,Max Temp,Low,24.8,25,2025-05-21,Month,2007-01-01,686,43200
 2025-05-28,Haveri,,,India,Max Temp,Low,24.2,24.4,2025-05-20,Month,2005-01-01,563,43227
-2025-05-28,Okha,,,India,Min Temp,High,30,27,,Month,1969-01-01,7,42730
+2025-05-28,Okha,,,India,Min Temp,High,30,30,2025-05-27,Month,1969-01-01,7,42730
 2025-05-28,Phalodi,,,India,Min Temp,High,35.4,34,2025-05-27,Month,1969-01-01,233,42237
 2025-05-28,Udgir,,,India,Max Temp,Low,29,29.5,2025-05-24,Month,2005-01-01,640,43076
 2025-05-27,Alibag,,,India,Max Temp,Low,26.7,27,2025-05-26,Month,1969-01-01,7,43058
@@ -276,7 +276,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-05-26,Phalodi,,,India,Min Temp,High,32.8,32.6,2025-05-24,Month,1969-01-01,233,42237
 2025-05-26,Raichur,,,India,Max Temp,Low,25,26.2,1979-05-15,Month,1969-01-01,400,43169
 2025-05-26,Sangli,,,India,Max Temp,Low,24.7,25.2,2025-05-25,Month,1969-01-01,549,43158
-2025-05-25,Ahmednagar,,,India,Max Temp,Low,25,23,,Month,1969-01-01,657,43009
+2025-05-25,Ahmednagar,,,India,Max Temp,Low,25,25,2025-05-23,Month,1969-01-01,657,43009
 2025-05-25,Amravati,,,India,Max Temp,Low,27.8,28.5,1979-05-15,Month,1969-01-01,370,42937
 2025-05-25,Baramati,,,India,Rain,24hrs,130.2,84.7,1966-05-04,Month,1954-01-01,551,43069
 2025-05-25,Harnai,,,India,Max Temp,Low,27.2,27.9,1990-05-30,Month,1969-01-01,18,43109
@@ -319,7 +319,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-05-14,Dharwad,,,India,Rain,24hrs,127.6,75.4,2018-05-12,Month,2007-01-01,686,43200
 2025-05-14,Thanjavur,,,India,Min Temp,High,31,30.6,2025-05-13,Month,1975-01-01,68,43330
 2025-05-13,Thanjavur,,,India,Min Temp,High,30.6,30,2025-05-12,Month,1975-01-01,68,43330
-2025-05-12,Thanjavur,,,India,Min Temp,High,30,4,,Month,1975-01-01,68,43330
+2025-05-12,Thanjavur,,,India,Min Temp,High,30,30,2025-05-04,Month,1975-01-01,68,43330
 2025-05-11,Malda,,,India,Min Temp,High,30.3,30.2,1970-05-14,Month,1969-01-01,31,42503
 2025-05-09,Khargone,,,India,Min Temp,Low,20,20.5,1979-05-23,Month,1969-01-01,251,42849
 2025-05-08,Alibag,,,India,Min Temp,Low,19.8,21.7,1943-05-25,Month,1934-01-01,7,43058
@@ -333,7 +333,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-05-07,Vadodara AP,,,India,Max Temp,Low,26.4,30.6,1982-05-09,Month,1969-01-01,38,42748
 2025-05-06,Bhilwara,,,India,Max Temp,Low,27.4,29.6,2025-05-05,Month,1969-01-01,421,42447
 2025-05-06,Mahuva,,,India,Max Temp,Low,30.8,31.3,1983-05-01,Month,1969-01-01,9,42837
-2025-05-06,Udaipur AP,,,India,Max Temp,Low,29,10,,Month,1969-01-01,509,42542
+2025-05-06,Udaipur AP,,,India,Max Temp,Low,29,29,1982-05-10,Month,1969-01-01,509,42542
 2025-05-05,Barmer,,,India,Max Temp,Low,30.6,32.1,1997-05-04,Month,1969-01-01,193,42435
 2025-05-05,Bhilwara,,,India,Max Temp,Low,29.6,30.3,1982-05-02,Month,1969-01-01,421,42447
 2025-05-05,Jodhpur,,,India,Max Temp,Low,25.9,28.4,2023-05-31,Month,1969-01-01,217,42339
@@ -364,7 +364,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-04-03,Nagpur,,,India,Max Temp,Low,26.6,27,2008-04-08,Month,1969-01-01,310,42867
 2025-04-03,Wardha,,,India,Max Temp,Low,29,30.5,2015-04-15,Month,1969-01-01,283,42939
 2025-03-31,Ahmednagar,,,India,Min Temp,High,25.4,25,1976-03-28,Month,1969-01-01,657,43009
-2025-03-31,Buldhana,,,India,Min Temp,High,29.8,15,,Month,1969-01-01,650,42931
+2025-03-31,Buldhana,,,India,Min Temp,High,29.8,29.8,2003-03-15,Month,1969-01-01,650,42931
 2025-03-29,Kolhapur,,,India,Min Temp,High,25.8,25,2024-03-26,Month,1969-01-01,570,43157
 2025-03-29,Kozhikode AP  (Karipur),,,India,Min Temp,High,28.4,28.3,2016-03-22,Month,1988-01-01,107,43320
 2025-03-28,Rajnandgaon,,,India,Max Temp,High,43,41,2025-03-27,Month,1980-01-01,330,42948
@@ -373,11 +373,11 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-03-22,Balasore,,,India,Max Temp,Low,22.4,23,2005-03-12,Month,1969-01-01,20,42895
 2025-03-22,Baripada,,,India,Rain,24hrs,123.4,71.2,1991-03-11,Month,1955-01-01,54,42894
 2025-03-22,Digha,,,India,Max Temp,Low,23,23.2,1990-03-07,Month,1982-01-01,6,42901
-2025-03-21,Aminidivi,,,India,Min Temp,High,28.6,16,,Month,1969-01-01,12,43311
+2025-03-21,Aminidivi,,,India,Min Temp,High,28.6,28.6,2010-03-26,Month,1969-01-01,12,43311
 2025-03-18,Thanjavur,,,India,Min Temp,High,28.6,28.2,1999-03-28,Month,1975-01-01,68,43330
 2025-03-16,Aminidivi,,,India,Min Temp,High,28.6,28.5,2025-03-08,Month,1969-01-01,12,43311
 2025-03-15,Rajnandgaon,,,India,Max Temp,High,40.5,40.2,1996-03-30,Month,1980-01-01,330,42948
-2025-03-14,Chandrapur,,,India,Min Temp,High,29.2,26,,Month,1969-01-01,193,43029
+2025-03-14,Chandrapur,,,India,Min Temp,High,29.2,29.2,2010-03-26,Month,1969-01-01,193,43029
 2025-03-11,Malda,,,India,Min Temp,High,27.8,26.7,1996-03-31,Month,1969-01-01,31,42503
 2025-03-11,Thiruvananthapuram AP,,,India,Min Temp,High,28.1,27.8,1988-03-26,Month,1969-01-01,64,43372
 2025-03-08,Aminidivi,,,India,Min Temp,High,28.5,28.2,2020-03-31,Month,1969-01-01,12,43311
