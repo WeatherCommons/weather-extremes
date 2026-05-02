@@ -1,0 +1,4 @@
+Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since
+2026-04-29,Bangalore,12.97,77.57,India,Rain,24hrs,111.5,108.6,2001-04-19,Month,1901
+2026-04-26,Anantapur,14.97,78.57,India,Max Temp,High,44.8,44.7,2024-04-29,Month,1940
+2026-04-26,Anantapur,14.97,78.57,India,Max Temp,High,44.8,44.7,2024-05-05,Year,1940
