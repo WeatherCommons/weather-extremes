@@ -1,9 +1,9 @@
-# Record Events
+# Record Events — ${observable.params.country} ${observable.params.year}
 
 Records are reported in **°C** for temperature and **mm** for rainfall.
 
 ```js
-const records = await FileAttachment("data/records/2026/India.csv").csv({typed: true});
+const records = await FileAttachment(`/data/records/${observable.params.year}/${observable.params.country}.csv`).csv({typed: true});
 ```
 
 ```js
@@ -27,7 +27,7 @@ const scope = view(Inputs.select(["All", ...new Set(records.map(d => d.Scope))],
 ```
 
 ```js
-const datePrefix = view(Inputs.text({label: "Date prefix", placeholder: "2026, 2026-04, 2026-04-26"}));
+const datePrefix = view(Inputs.text({label: "Date prefix", placeholder: `${observable.params.year}, ${observable.params.year}-04, ${observable.params.year}-04-26`}));
 ```
 
 ```js
@@ -43,6 +43,6 @@ const filtered = records.filter(d => {
 ```
 
 ```js
-import {recordsTable} from "./components/recordsTable.js";
+import {recordsTable} from "/components/recordsTable.js";
 display(recordsTable(filtered, ["Date", "City", "Country", "Metric", "Type", "Value", "Prev", "Prev Date", "Scope", "Since"]));
 ```
