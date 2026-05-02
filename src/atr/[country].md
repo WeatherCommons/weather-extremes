@@ -49,5 +49,5 @@ const filtered = records.filter(d => {
 
 ```js
 import {recordsTable} from "/components/recordsTable.js";
-display(recordsTable(filtered, ["Month", "City", "Country", "Metric", "Type", "Value", "Date", "Scope", "Since"]));
+display(recordsTable(filtered, ["Month", "City", "Country", "Metric", "Type", "Value", "Date", "Scope", "Since", "Elevation", "WMO"]));
 ```
