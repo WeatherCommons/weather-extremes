@@ -1,4 +1,96 @@
-Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since
-2026-04-29,Bangalore,12.97,77.57,India,Rain,24hrs,111.5,108.6,2001-04-19,Month,1901-01-01
-2026-04-26,Anantapur,14.97,78.57,India,Max Temp,High,44.8,44.7,2024-04-29,Month,1940-01-01
-2026-04-26,Anantapur,14.97,78.57,India,Max Temp,High,44.8,44.7,2024-05-05,Year,1940-01-01
+Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation,WMO
+2026-04-30,Veraval,,,India,Min Temp,High,28.1,27.8,2026-04-29,Month,1969-01-01,11,42909
+2026-04-30,Chennai (M),,,India,Min Temp,High,29.4,29.2,2010-04-21,Month,1969-01-01,16,43279
+2026-04-30,Contai,,,India,Rain,24hrs,60,49.2,1997-04-16,Month,1950-01-01,11,42900
+2026-04-30,Bengaluru ©,,,India,Rain,24hrs,111.5,108.6,2001-04-19,Month,1890-01-01,923,43295
+2026-04-30,Bidar,,,India,Max Temp,High,44,43.8,2026-04-29,Month,1901-01-01,664,43125
+2026-04-29,Veraval,,,India,Min Temp,High,27.8,27.7,2026-04-28,Month,1969-01-01,11,42909
+2026-04-29,Bidar,,,India,Max Temp,High,43.8,43.4,2026-04-28,Month,1901-01-01,664,43125
+2026-04-28,Dharmapuri,,,India,Min Temp,High,28.5,28,1998-04-22,Month,1975-01-01,473,43301
+2026-04-28,Veraval,,,India,Min Temp,High,27.7,27.5,1995-04-15,Month,1969-01-01,11,42909
+2026-04-28,Bidar,,,India,Max Temp,High,43.4,43.2,2025-04-27,Month,1901-01-01,664,43125
+2026-04-27,Banda,,,India,Max Temp,High,47.4,30,,Month,1951-01-01,120,42473
+2026-04-27,Jaisalmer,,,India,Max Temp,High,46.4,46.3,2025-04-29,Month,1949-01-01,258,42328
+2026-04-27,Chittorgarh,,,India,Max Temp,High,45.4,45.2,2025-04-18,Month,1973-01-01,404,42546
+2026-04-27,Wardha,,,India,Max Temp,High,46.5,46.4,2026-04-26,Month,1966-01-01,283,42939
+2026-04-27,Phalodi,,,India,Min Temp,High,33,32.6,2019-04-23,Month,1969-01-01,233,42237
+2026-04-27,Chittorgarh,,,India,Min Temp,High,31.6,29.5,2025-04-19,Month,1973-01-01,404,42546
+2026-04-27,Jodhpur,,,India,Min Temp,High,31.5,31.1,2015-04-28,Month,1969-01-01,217,42339
+2026-04-26,Amravati,,,India,Max Temp,High,46.8,30,,Month,1892-01-01,370,42937
+2026-04-26,Wardha,,,India,Max Temp,High,46.4,30,,Month,1966-01-01,283,42939
+2026-04-26,Yeotmal,,,India,Max Temp,High,46,45.5,2019-04-30,Month,1951-01-01,451,42943
+2026-04-26,Deesa,,,India,Min Temp,High,28.6,28.2,2020-04-30,Month,1969-01-01,137,42539
+2026-04-26,Sagar,,,India,Max Temp,High,44.4,18,,Month,1951-01-01,551,42671
+2026-04-26,Malanjkhand,,,India,Max Temp,High,43.5,43.1,2009-04-30,Month,1978-01-01,609,42715
+2026-04-26,Chittorgarh,,,India,Max Temp,High,45.2,18,,Month,1973-01-01,404,42546
+2026-04-26,Anantapur,,,India,Max Temp,High,44.8,44.7,2024-04-30,Month,1951-01-01,350,43237
+2026-04-26,Anantapur,,,India,Max Temp,High,44.8,44.7,2024-04-30,Year,1951-01-01,350,43237
+2026-04-25,Banda,,,India,Max Temp,High,47.4,30,,Month,1951-01-01,120,42473
+2026-04-23,Alibag,,,India,Min Temp,High,29,28.6,2015-04-22,Month,1969-01-01,7,43058
+2026-04-20,Guwahati,,,India,Rain,24hrs,117.4,116.5,2004-04-06,Month,1951-01-01,54,42410
+2026-04-19,Kanyakumari,,,India,Max Temp,High,37.6,37.3,2026-04-18,Month,1961-01-01,37,43377
+2026-04-18,Kanyakumari,,,India,Max Temp,High,37.3,37.2,2026-04-16,Month,1961-01-01,37,43377
+2026-04-16,Kanyakumari,,,India,Max Temp,High,37.2,36.8,2020-04-28,Month,1961-01-01,37,43377
+2026-04-15,Koppal,,,India,Min Temp,High,29.8,27.5,2006-04-24,Month,2002-01-01,564,43228
+2026-04-15,Koppal,,,India,Min Temp,High,29.8,28,2007-05-22,Year,2002-01-01,564,43228
+2026-04-09,Banda,,,India,Min Temp,Low,12,13.1,1963-04-09,Month,1951-01-01,120,42473
+2026-04-09,Tehri,,,India,Min Temp,Low,3,3.8,2014-04-03,Month,1957-01-01,1575,42114
+2026-04-08,Solan (Nauni),,,India,Max Temp,Low,14,16.5,2008-04-06,Month,1981-01-01,1256,42106
+2026-04-08,Mukteshwar,,,India,Max Temp,Low,6.2,7.2,1983-04-17,Month,1969-01-01,2312,42147
+2026-04-08,Sikar,,,India,Rain,24hrs,42,18.4,1997-04-03,Month,1951-01-01,431,42249
+2026-04-07,Narnaul,,,India,Max Temp,Low,24.5,25,1990-04-04,Month,1969-01-01,306,42177
+2026-04-07,Rohtak,,,India,Max Temp,Low,22.8,23.7,1983-04-13,Month,1969-01-01,220,45176
+2026-04-03,Pune (Shivajinagar),,,India,Rain,24hrs,65,51.1,1896-04-04,Month,1896-01-01,556,43063
+2026-04-02,Dharamshala,,,India,Min Temp,Low,6.5,7.2,2023-04-30,Month,1951-01-01,1211,42062
+2026-03-31,Satara,,,India,Rain,24hrs,36,35.5,1984-03-31,Month,1989-01-01,660,43113
+2026-03-29,Minicoy,,,India,Min Temp,High,28.8,28.6,2010-03-31,Month,1969-01-01,2,43369
+2026-03-28,Agatti,,,India,Min Temp,High,29.4,28.7,2026-03-14,Month,1994-01-01,4,43266
+2026-03-26,Alibag,,,India,Min Temp,High,28.5,28.2,2026-03-24,Month,1969-01-01,7,43058
+2026-03-24,Alibag,,,India,Min Temp,High,28.2,27.8,2026-03-05,Month,1969-01-01,7,43058
+2026-03-20,Rajkot,,,India,Rain,24hrs,37.6,21.6,1911-03-17,Month,1888-01-01,138,42737
+2026-03-18,Hanamkonda,,,India,Max Temp,Low,25,28,1989-03-12,Month,1969-01-01,266,43087
+2026-03-18,Ramagundam,,,India,Max Temp,Low,24,24.4,2014-03-05,Month,1969-01-01,156,43086
+2026-03-14,Agatti,,,India,Min Temp,High,28.7,28.6,2022-03-29,Month,1994-01-01,4,43266
+2026-03-11,Veraval,,,India,Min Temp,High,25.4,25.3,2021-03-31,Month,1969-01-01,11,42909
+2026-03-10,Batote,,,India,Min Temp,High,15.6,15.3,2017-03-31,Month,1977-01-01,1585,42043
+2026-03-10,Manali,,,India,Min Temp,High,11.9,11.5,1987-03-30,Month,1969-01-01,2039,42065
+2026-03-10,Diu,,,India,Max Temp,High,41.3,40.7,2018-03-27,Month,1967-01-01,10,42914
+2026-03-06,Ooty,,,India,Max Temp,High,27.6,27.5,1985-03-23,Month,1951-01-01,2249,43317
+2026-03-05,Alibag,,,India,Min Temp,High,27.8,27.2,2024-03-28,Month,1969-01-01,7,43058
+2026-02-27,Srinagar,,,India,Max Temp,High,21,21,,Month,1901-01-01,1585,42027
+2026-02-27,Phalodi,,,India,Min Temp,High,22.2,20,2006-02-27,Month,1969-01-01,233,42237
+2026-02-26,Meerut,,,India,Max Temp,High,32.6,32.2,1969-02-27,Month,1951-01-01,222,42139
+2026-02-24,Pahalgam,,,India,Max Temp,High,17.6,24,,Month,1978-01-01,2310,42028
+2026-02-24,Srinagar,,,India,Max Temp,High,21,21,,Month,1901-01-01,1585,42027
+2026-02-23,Srinagar,,,India,Max Temp,High,21,21,,Month,1901-01-01,1585,42027
+2026-02-22,Qazigund,,,India,Max Temp,High,21.5,21,2026-02-20,Month,1962-01-01,1690,42044
+2026-02-22,Kolhapur,,,India,Min Temp,High,23.3,23.2,2016-02-29,Month,1969-01-01,570,43157
+2026-02-22,Satara,,,India,Min Temp,High,22.4,21.8,1980-02-29,Month,1971-01-01,660,43113
+2026-02-21,Srinagar,,,India,Max Temp,High,21,20.6,1940-02-29,Month,1901-01-01,1585,42027
+2026-02-20,Gulmarg,,,India,Max Temp,High,11.6,11.4,1993-02-11,Month,1922-01-01,2652,42026
+2026-02-20,Qazigund,,,India,Max Temp,High,21,20.7,2020-02-28,Month,1962-01-01,1690,42044
+2026-02-19,Gulmarg,,,India,Max Temp,High,11.4,11,,Month,1922-01-01,2652,42026
+2026-02-18,Golaghat,,,India,Min Temp,High,18,17,2026-02-17,Month,1969-01-01,95,42420
+2026-02-18,Lumding,,,India,Max Temp,High,34,33.8,1952-02-24,Month,1951-01-01,149,42523
+2026-02-17,Golaghat,,,India,Min Temp,High,17,16,2026-02-04,Month,1969-01-01,95,42420
+2026-02-04,Golaghat,,,India,Min Temp,High,16,14,2025-02-15,Month,1969-01-01,95,42420
+2026-01-31,Gandhinagar,,,India,Min Temp,High,18.2,22,,Month,1974-01-01,81,42654
+2026-01-30,Alibag,,,India,Min Temp,High,25.3,24.2,2026-01-27,Month,1969-01-01,7,43058
+2026-01-28,Gwalior,,,India,Rain,24hrs,63.6,52.6,1926-01-08,Month,1891-01-01,207,42361
+2026-01-27,Alibag,,,India,Min Temp,High,24.2,23.6,2007-01-30,Month,1969-01-01,7,43058
+2026-01-23,Chittorgarh,,,India,Min Temp,High,16.4,16.2,2014-01-22,Month,1973-01-01,404,42546
+2026-01-23,Kota,,,India,Min Temp,High,19.4,19,1996-01-15,Month,1969-01-01,273,42452
+2026-01-12,Silchar,,,India,Max Temp,High,31.4,30.7,2017-01-26,Month,1900-01-01,20,42619
+2026-01-10,Jharsuguda,,,India,Min Temp,Low,4.5,4.6,2026-01-09,Month,1953-01-01,230,42886
+2026-01-10,Jharsuguda,,,India,Min Temp,Low,4.5,4.6,2026-01-09,Year,1953-01-01,230,42886
+2026-01-09,Jharsuguda,,,India,Min Temp,Low,4.6,5.1,2026-01-06,Month,1953-01-01,230,42886
+2026-01-09,Jharsuguda,,,India,Min Temp,Low,4.6,5.1,2026-01-06,Year,1953-01-01,230,42886
+2026-01-08,Gwalior,,,India,Max Temp,Low,10.4,11.6,2024-01-20,Month,1969-01-01,207,42361
+2026-01-08,Gwalior,,,India,Max Temp,Low,10.4,11.6,2024-01-20,Year,1969-01-01,207,42361
+2026-01-06,Jharsuguda,,,India,Min Temp,Low,5.1,5.6,2023-01-07,Month,1953-01-01,230,42886
+2026-01-06,Jharsuguda,,,India,Min Temp,Low,5.1,5.6,2021-12-20,Year,1953-01-01,230,42886
+2026-01-04,Shimla (city),,,India,Max Temp,High,23.1,22,2026-01-03,Month,1901-01-01,2270,42083
+2026-01-04,Shimla AP,,,India,Max Temp,High,25.4,24.4,2026-01-03,Month,2009-01-01,1546,42084
+2026-01-03,Shimla (city),,,India,Max Temp,High,22,21.4,2006-01-31,Month,1901-01-01,2270,42083
+2026-01-03,Shimla AP,,,India,Max Temp,High,24.4,22.7,2023-01-08,Month,2009-01-01,1546,42084
+2026-01-02,Coonoor PTO,,,India,Rain,24hrs,261,196.6,1943-01-04,Month,1936-01-01,1747,43318

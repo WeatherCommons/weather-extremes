@@ -1,2 +1,2 @@
-Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since
-2025-03-01,San Jose,37.00,-121.57,USA,Max Temp,Low,11.2,11.7,2006-03-06,Month,1901-01-01
+Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation,WMO
+2025-03-01,San Jose,37.00,-121.57,USA,Max Temp,Low,11.2,11.7,2006-03-06,Month,1901-01-01,5,
