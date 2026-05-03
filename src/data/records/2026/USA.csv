@@ -1,3 +1,4 @@
 Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation,WMO
 2026-05-01,Cleveland Intl,41.41,-81.85,USA,Max Temp,Low,7.2,8.3,1978-05-01,Month,1975-01-01,236.8,72524
 2026-05-01,Mobile,30.69,-88.25,USA,Max Temp,Low,18.9,21.0,2022-05-01,Month,1975-05-01,65.5,72223
+2026-05-01,San Antonio Mun,29.34,-98.47,USA,Max Temp,Low,19.4,21.1,2013-05-03,Month,1999-05-01,173.1,72252
