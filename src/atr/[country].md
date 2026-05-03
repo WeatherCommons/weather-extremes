@@ -15,6 +15,10 @@ const city = view(Inputs.select(["All", ...new Set(records.map(d => d.City))], {
 ```
 
 ```js
+const state = view(Inputs.select(["All", ...new Set(records.map(d => d.State))], {label: "State", value: "All"}));
+```
+
+```js
 const month = view(Inputs.select(["All", ...new Set(records.map(d => d.Month))], {label: "Month", value: "All"}));
 ```
 
@@ -39,6 +43,7 @@ const filtered = records.filter(d => {
   if (datePrefix && !(d.Date instanceof Date ? d.Date.toISOString().slice(0, 10) : String(d.Date)).startsWith(datePrefix)) return false;
   if (country !== "All" && d.Country !== country) return false;
   if (city !== "All" && d.City !== city) return false;
+  if (state !== "All" && d.State !== state) return false;
   if (month !== "All" && d.Month !== month) return false;
   if (metric !== "All" && d.Metric !== metric) return false;
   if (recordType !== "All" && d.Type !== recordType) return false;
@@ -49,5 +54,5 @@ const filtered = records.filter(d => {
 
 ```js
 import {recordsTable} from "/components/recordsTable.js";
-display(recordsTable(filtered, ["Month", "City", "Country", "Metric", "Type", "Value", "Date", "Scope", "Since", "Elevation", "WMO"]));
+display(recordsTable(filtered, ["Month", "City", "State", "Country", "Metric", "Type", "Value", "Date", "Scope", "Since", "Elevation", "WMO"]));
 ```

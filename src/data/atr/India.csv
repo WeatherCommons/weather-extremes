@@ -1,5 +1,5 @@
-Month,City,Lat,Lon,Country,Metric,Type,Value,Date,Scope,Since,Elevation,WMO
-Apr,Bangalore,12.97,77.57,India,Min Temp,High,25.8,2016-04-15,Month,1901-01-01,920,43295
-May,Bangalore,12.97,77.57,India,Min Temp,High,26.4,2024-05-03,Month,1901-01-01,920,43295
-May,Bangalore,12.97,77.57,India,Min Temp,High,26.4,2024-05-03,Year,1901-01-01,920,43295
-Jun,Bangalore,12.97,77.57,India,Max Temp,High,38.1,2003-06-01,Year,1901-01-01,920,43295
+Month,City,Lat,Lon,State,Country,Metric,Type,Value,Date,Scope,Since,Elevation,WMO
+Apr,Bangalore,12.97,77.57,,India,Min Temp,High,25.8,2016-04-15,Month,1901-01-01,920,43295
+May,Bangalore,12.97,77.57,,India,Min Temp,High,26.4,2024-05-03,Month,1901-01-01,920,43295
+May,Bangalore,12.97,77.57,,India,Min Temp,High,26.4,2024-05-03,Year,1901-01-01,920,43295
+Jun,Bangalore,12.97,77.57,,India,Max Temp,High,38.1,2003-06-01,Year,1901-01-01,920,43295
