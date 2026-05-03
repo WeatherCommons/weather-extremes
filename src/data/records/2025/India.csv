@@ -11,7 +11,7 @@ Date,City,Lat,Lon,Country,Metric,Type,Value,Prev,Prev Date,Scope,Since,Elevation
 2025-12-15,Madurai (city),,,India,Min Temp,Low,16.2,16.7,1920-12-05,Month,1891-01-01,133,43359
 2025-12-15,Solan (Nauni),,,India,Max Temp,High,28.5,27,2007-12-24,Month,1981-01-01,1256,42106
 2025-12-12,Dharwad,,,India,Min Temp,Low,8.5,9,2005-12-17,Month,2004-01-01,686,43200
-2025-12-12,Dharwad,,,India,Min Temp,Low,8.5,13,2015-01-13,Year,2004-01-01,686,43200
+2025-12-12,Dharwad,,,India,Min Temp,Low,8.5,8.5,2015-01-13,Year,2004-01-01,686,43200
 2025-12-12,Gadag,,,India,Min Temp,Low,9.8,9.9,2010-12-24,Month,1950-01-01,650,43201
 2025-11-29,Ariyalur,,,India,Max Temp,Low,22.8,23,1985-11-05,Month,1977-01-01,76,43324
 2025-11-29,Kanyakumari,,,India,Min Temp,Low,17.2,20.1,1967-11-30,Month,1961-01-01,37,43377
